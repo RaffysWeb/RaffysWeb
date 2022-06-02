@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/raffysweb/stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/raffysweb/stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/RaffysWeb/stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/RaffysWeb/stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **RaffysWeb/RaffysWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
